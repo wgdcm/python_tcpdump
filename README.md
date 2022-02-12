@@ -11,7 +11,7 @@ This simple python program provides the same output as the "TCPDUMP" utility in 
 
 ### How To Run?
 
-Run these two python program in Linux environments.
+Run these two python programs in Linux environments.
 ```
 sudo python3 tcpdump.py
 ```
