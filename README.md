@@ -18,4 +18,4 @@ sudo python3 tcpdump.py
 
 You will be asked what interface you need to run the program.
 
-Give correct interface name to the program.
+Give the correct interface name to the program.
